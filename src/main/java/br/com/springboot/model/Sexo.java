@@ -1,8 +1,8 @@
 package br.com.springboot.model;
 
 public enum Sexo {
-	MASCULINO("Masculino"),
-	FEMININO("Feminino");
+	MASCULINO("M"),
+	FEMININO("F");
 	
 	private String descricao;
 	
